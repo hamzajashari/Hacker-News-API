@@ -1,0 +1,33 @@
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\appsettings.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Hacker News.exe
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Hacker News.deps.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Hacker News.runtimeconfig.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Hacker News.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Hacker News.pdb
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.csproj.AssemblyReference.cache
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.AssemblyInfoInputs.cache
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.AssemblyInfo.cs
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets\msbuild.Hacker News.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets\msbuild.build.Hacker News.props
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hacker News.props
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hacker News.props
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\scopedcss\bundle\Hacker News.styles.css
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.csproj.CopyComplete
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\refint\Hacker News.dll
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.pdb
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\Hacker News.genruntimeconfig.cache
+C:\Users\Hamza\Desktop\FINKI\Backend Task 3\Hacker News\obj\Debug\net8.0\ref\Hacker News.dll
